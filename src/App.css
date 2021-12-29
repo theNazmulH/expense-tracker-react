@@ -122,3 +122,7 @@ i.text-xs{
   background:transparent;
   color: #fff;
 }
+.amount span span,
+.text span span{
+  color: #636e72
+}
